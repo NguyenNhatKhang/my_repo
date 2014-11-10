@@ -2,3 +2,4 @@ file 1
 Edit: 07/11/2014: 15:51
 17:00 : git diff doesn't work.
 17:11 : git diff doesn't work.
+17:14 : no status
